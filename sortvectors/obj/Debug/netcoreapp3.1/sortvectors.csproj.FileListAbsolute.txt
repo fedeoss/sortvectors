@@ -11,3 +11,16 @@ C:\Users\federica.zani\Documents\sortvectors\sortvectors\bin\Debug\netcoreapp3.1
 C:\Users\federica.zani\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.dll
 C:\Users\federica.zani\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.pdb
 C:\Users\federica.zani\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.genruntimeconfig.cache
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.csprojAssemblyReference.cache
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.AssemblyInfoInputs.cache
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.AssemblyInfo.cs
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.csproj.CoreCompileInputs.cache
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.dll
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.pdb
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\bin\Debug\netcoreapp3.1\sortvectors.exe
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\bin\Debug\netcoreapp3.1\sortvectors.deps.json
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\bin\Debug\netcoreapp3.1\sortvectors.runtimeconfig.json
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\bin\Debug\netcoreapp3.1\sortvectors.runtimeconfig.dev.json
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\bin\Debug\netcoreapp3.1\sortvectors.dll
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\bin\Debug\netcoreapp3.1\sortvectors.pdb
+C:\Users\tommaso.zammarchi\Documents\sortvectors\sortvectors\obj\Debug\netcoreapp3.1\sortvectors.genruntimeconfig.cache

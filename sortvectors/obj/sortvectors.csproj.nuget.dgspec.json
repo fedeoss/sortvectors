@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\federica.zani\\Documents\\sortvectors\\sortvectors\\sortvectors.csproj": {}
+    "C:\\Users\\tommaso.zammarchi\\Documents\\sortvectors\\sortvectors\\sortvectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\federica.zani\\Documents\\sortvectors\\sortvectors\\sortvectors.csproj": {
+    "C:\\Users\\tommaso.zammarchi\\Documents\\sortvectors\\sortvectors\\sortvectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\federica.zani\\Documents\\sortvectors\\sortvectors\\sortvectors.csproj",
+        "projectUniqueName": "C:\\Users\\tommaso.zammarchi\\Documents\\sortvectors\\sortvectors\\sortvectors.csproj",
         "projectName": "sortvectors",
-        "projectPath": "C:\\Users\\federica.zani\\Documents\\sortvectors\\sortvectors\\sortvectors.csproj",
-        "packagesPath": "C:\\Users\\federica.zani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\federica.zani\\Documents\\sortvectors\\sortvectors\\obj\\",
+        "projectPath": "C:\\Users\\tommaso.zammarchi\\Documents\\sortvectors\\sortvectors\\sortvectors.csproj",
+        "packagesPath": "C:\\Users\\tommaso.zammarchi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tommaso.zammarchi\\Documents\\sortvectors\\sortvectors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\federica.zani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tommaso.zammarchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
